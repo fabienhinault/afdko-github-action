@@ -1,0 +1,6 @@
+name: 'afdko'
+description: 'Run afdko'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
